@@ -13,7 +13,7 @@ Yetong Cao is currently a postdoctoral fellow at the School of Computer Science 
 
 Research Interests
 ======
-Her research interests include **Smart Sensing**, **Mobile Health**, **Mobile Computing**, and **Cyber Security & Privacy**. 
+Her research interests include **Smart Sensing**, **Mobile Computing**, **Mobile Health**, and **Cyber Security & Privacy**. 
 She is maily dedicated to the integration of artificial intelligence and signal processing techniques to achieve innovative applications. Her work places a significant emphasis on system implementation and validation in real-world scenarios, with a focus on ensuring user-friendliness and practicality.
 
 News
