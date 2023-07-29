@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yetong Cao (曹烨彤)' Homepage"
+title                    : "Yetong Cao's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
