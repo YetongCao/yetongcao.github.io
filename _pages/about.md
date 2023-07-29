@@ -9,7 +9,7 @@ redirect_from:
 ---
 Bio
 ======
-Yetong Cao is currently a postdoctoral fellow at the School of Computer Science and Engineering, Nanyang Technological University. She received her Ph.D. degree from the School of Computer Science at Beijing Institute of Technology in 2023, advised by [Prof. Fan Li](https://cs.bit.edu.cn/szdw/jsml/js/lf/index.htm "FanLi Homepage"). She received her B.E. degree from Shan Dong University in 2017. Previously, she has visited the Computer Networks and Communication Lab (CNCL) and the School of Computer Science and Engineering at Nanyang Technological University under the supervision of [Prof. Jun Luo](https://personal.ntu.edu.sg/junluo/ "JunLuo Homepage"). 
+Yetong Cao is currently a postdoctoral fellow at the School of Computer Science and Engineering, Nanyang Technological University. She received her Ph.D. degree from the School of Computer Science at Beijing Institute of Technology in 2023, advised by [Prof. Fan Li](https://cs.bit.edu.cn/szdw/jsml/js/lf/index.htm "FanLi"). She received her B.E. degree from Shan Dong University in 2017. Previously, she has visited the Computer Networks and Communication Lab (CNCL) and the School of Computer Science and Engineering at Nanyang Technological University under the supervision of [Prof. Jun Luo](https://personal.ntu.edu.sg/junluo/ "JunLuo"). 
 
 Research Interests
 ======
