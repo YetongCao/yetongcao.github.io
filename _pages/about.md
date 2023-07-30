@@ -26,7 +26,7 @@ News
 Selected Publications
 ======
 
-**Conference Papers**
+### Conference Papers
 
 **[IMUWT/UbiCom'23]** **Yetong Cao**, Chao Cai, Anbo Yu, Fan Li, Jun Luo, [EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform](https://dl.acm.org/doi/abs/10.1145/3596242), In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 7(2), 1-23. [PDF](https://yetongcao.github.io/files/EarACE.pdf) 
 
@@ -44,11 +44,16 @@ Selected Publications
 
 **[INFOCOM'20]** **Yetong Cao**, Qian Zhang, Fan Li, Song Yang, Yu Wang, [PPGPass: Nonintrusive and Secure Mobile Two-Factor Authentication via Wearables](https://ieeexplore.ieee.org/abstract/document/9155380), In IEEE INFOCOM 2020-IEEE Conference on Computer Communications (pp. 1917-1926). [PDF](https://yetongcao.github.io/files/PPGPass.pdf) [Slides](https://yetongcao.github.io/files/INFOCOM2020-PPGPass-final.pptx)
 
-**Journal Articles**
+### Journal Articles
 
-[ACM TOSN] **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, [_Towards Reliable Driver Drowsiness Detection Leveraging Wearables_](https://dl.acm.org/doi/abs/10.1145/3560821), Accepted for publication,[pdf](https://yetongcao.github.io/files/FDWatch.pdf)
+**[TOSN'23]** **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, [Towards Reliable Driver Drowsiness Detection Leveraging Wearables](https://dl.acm.org/doi/abs/10.1145/3560821), Accepted for publication, [pdf](https://yetongcao.github.io/files/FDWatch.pdf)
+
+**[TMC'22]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Yu Wang, [Tongue-Jaw Movement Recognition Through Acoustic Sensing on Smartphones](https://ieeexplore.ieee.org/abstract/document/9953323), _IEEE Transactions on Mobile Computing_, Accepted for publication, [pdf](https://yetongcao.github.io/files/CanalScanTMC-Final.pdf)
+
+**[TMC'22]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Song Yang, Yu Wang, [Leveraging Wearables for Assisting the Elderly With Dementia in Handwashing](https://ieeexplore.ieee.org/abstract/document/9839489), _IEEE Transactions on Mobile Computing_, Accepted for publication, [pdf](https://yetongcao.github.io/files/TMC-AWash-Final.pdf)
 
 
+**[TMC'21]** **Yetong Cao**, Fan Li, Qian Zhang, Song Yang, Yu Wang, [Towards Nonintrusive and Secure Mobile Two-Factor Authentication on Wearables](https://ieeexplore.ieee.org/abstract/document/9645232), _IEEE Transactions on Mobile Computing_, 22(5), 3046-3061, [pdf](https://yetongcao.github.io/files/PPGPass-TMC-final.pdf)
 
 
 
