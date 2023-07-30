@@ -16,6 +16,6 @@ In recent years, particular attention has been devoted to continuous electrocard
 
 [<ins>Download PDF</ins>](../files/VibCardiogram.pdf) 
 
-[<ins>Download Slides</ins>](../files/vibcardiogram.pptx)
+[<ins>Download slides</ins>](../files/vibcardiogram.pptx)
 
-[<ins>View the full paper</ins>](https://dl.acm.org/doi/abs/10.1145/3550307)
+[<ins>View full paper</ins>](https://dl.acm.org/doi/abs/10.1145/3550307)
