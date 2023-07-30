@@ -17,4 +17,4 @@ Human-machine interface based on tongue-jaw movements has recently become one of
 
 [<ins>Download slids</ins>](../files/canalscan.pptx)
 
-[<ins>View the full paper</ins>](https://ieeexplore.ieee.org/abstract/document/9488852)
+[<ins>View full paper</ins>](https://ieeexplore.ieee.org/abstract/document/9488852)
