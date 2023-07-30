@@ -8,7 +8,7 @@ venue: 'IEEE INFOCOM'
 paperurl: 'http://yetongcao.github.io/files/HeartPrint.pdf'
 citation: #'Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. 2020. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
 ---
-Yetong Cao, Chao Cai, Fan Li, Zhe Chen, Jun Luo. "HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones". _IEEE Conference on Computer Communications_, 2023, pp. 1-10.
+**Yetong Cao**, Chao Cai, Fan Li*, Zhe Chen, Jun Luo. "HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones". _IEEE Conference on Computer Communications_, 2023, pp. 1-10.
 
 
 ### Abstract:
