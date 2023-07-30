@@ -16,11 +16,6 @@ Research Interests
 Her research interests include **Smart Sensing**, **Mobile Computing**, **Mobile Health**, and **Cyber Security & Privacy**. 
 She is maily dedicated to the integration of artificial intelligence and signal processing techniques to achieve innovative applications. Her work places a significant emphasis on system implementation and validation in real-world scenarios, with a focus on ensuring user-friendliness and practicality.
 
-News
-======
-1. to be added
-1. to be added
-1. to be added
 
 
 Selected Publications
@@ -43,11 +38,11 @@ Selected Publications
 
 **[INFOCOM'21]** **Yetong Cao**, Huijie Chen, Fan Li, Yu Wang, [CanalScan: Tongue-Jaw Movement Recognition via Ear Canal Deformation Sensing](https://ieeexplore.ieee.org/abstract/document/9488852). In _IEEE Conference on Computer Communications_ (pp. 1-10). [PDF](../files/CanalScan.pdf) [Slides](../files/canalscan.pptx)
 
-**[INFOCOM'20]** **Yetong Cao**, Qian Zhang, Fan Li, Song Yang, Yu Wang, [PPGPass: Nonintrusive and Secure Mobile Two-Factor Authentication via Wearables](https://ieeexplore.ieee.org/abstract/document/9155380), In IEEE INFOCOM 2020-IEEE Conference on Computer Communications (pp. 1917-1926). [PDF](../files/PPGPass.pdf) [Slides](../files/INFOCOM2020-PPGPass-final.pptx)
+**[INFOCOM'20]** **Yetong Cao**, Qian Zhang, Fan Li, Song Yang, Yu Wang, [PPGPass: Nonintrusive and Secure Mobile Two-Factor Authentication via Wearables](https://ieeexplore.ieee.org/abstract/document/9155380), In _IEEE Conference on Computer Communications_ (pp. 1917-1926). [PDF](../files/PPGPass.pdf) [Slides](../files/INFOCOM2020-PPGPass-final.pptx)
 
 ### Journal Articles
 
-**[TOSN'23]** **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, [Towards Reliable Driver Drowsiness Detection Leveraging Wearables](https://dl.acm.org/doi/abs/10.1145/3560821), Accepted for publication, [pdf](../files/FDWatch.pdf)
+**[TOSN'23]** **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, [Towards Reliable Driver Drowsiness Detection Leveraging Wearables](https://dl.acm.org/doi/abs/10.1145/3560821), _ACM Transactions on Sensor Networks_, Accepted for publication, [pdf](../files/FDWatch.pdf)
 
 **[TMC'22]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Yu Wang, [Tongue-Jaw Movement Recognition Through Acoustic Sensing on Smartphones](https://ieeexplore.ieee.org/abstract/document/9953323), _IEEE Transactions on Mobile Computing_, Accepted for publication, [pdf](../files/CanalScanTMC-Final.pdf)
 
