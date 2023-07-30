@@ -32,7 +32,7 @@ Selected Publications
 
 **[IMWUT/UbiComp'22]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen liu, Li Zhang, Yu Wang, [Guard Your Heart Silently: Continuous Electrocardiogram Waveform Monitoring with Wrist-Worn Motion Sensor](https://dl.acm.org/doi/abs/10.1145/3550307), In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 6(3), 1-29. [<ins>PDF</ins>](../files/VibCardiogram.pdf) [<ins>Slides</ins>](../files/vibcardiogram.pptx)
 
-**[MobiCom'21]** **Yetong Cao**, Huijie Chen, Fan Li, Yu Wang, [Crisp-Bp: Continuous Wrist Ppg-Based Blood Pressure Measurement](https://dl.acm.org/doi/abs/10.1145/3447993.3483241), In _Proceedings of the 27th Annual International Conference on Mobile Computing and Networking_ (pp. 378-391). [<ins>PDF</ins>](../files/Crisp-BP.pdf) [<ins>Slides</ins>](../files/Mobicom-15min.pptx)
+**[MobiCom'21]** **Yetong Cao**, Huijie Chen, Fan Li, Yu Wang, [Crisp-BP: Continuous Wrist Ppg-Based Blood Pressure Measurement](https://dl.acm.org/doi/abs/10.1145/3447993.3483241), In _Proceedings of the 27th Annual International Conference on Mobile Computing and Networking_ (pp. 378-391). [<ins>PDF</ins>](../files/Crisp-BP.pdf) [<ins>Slides</ins>](../files/Mobicom-15min.pptx)
 
 **[INFOCOM'21]** **Yetong Cao**, Huijie Chen, Fan Li, Song Yang, Yu Wang, [AWash: Handwashing Assistance for the Elderly With Dementia via Wearables](https://ieeexplore.ieee.org/abstract/document/9488688). In _IEEE Conference on Computer Communications_ (pp. 1-10). [<ins>PDF</ins>](../files/AWash.pdf) [<ins>Slides</ins>](../files/awash.pptx)
 
