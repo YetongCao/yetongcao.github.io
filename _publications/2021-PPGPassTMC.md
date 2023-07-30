@@ -3,7 +3,7 @@ title: "Towards Nonintrusive and Secure Mobile Two-Factor Authentication on Wear
 collection: publications
 permalink: /publication/2021-PPGPassTMC
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-06-16
+date: 2021-12-09
 venue: 'IEEE TMC'
 paperurl: 'http://yetongcao.github.io/files/PPGPass-TMC-final.pdf'
 citation: #'Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. 2020. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
