@@ -1,5 +1,5 @@
 ---
-title: "Crisp-BP: Continuous Wrist Ppg-Based Blood Pressure Measurement"
+title: "Crisp-BP: Continuous Wrist PPG-Based Blood Pressure Measurement"
 collection: publications
 permalink: /publication/2021-CrispBP
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
@@ -8,7 +8,7 @@ venue: 'ACM MOBICOM'
 paperurl: 'http://yetongcao.github.io/files/Crisp-BP.pdf'
 citation: #'Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. 2020. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
 ---
-Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. "Crisp-BP: Continuous Wrist Ppg-Based Blood Pressure Measurement". _Proceedings of the 27th Annual International Conference on Mobile Computing and Networking_, 2021, pp. 378–391.
+**Yetong Cao**, Qian Zhang, Fan Li*, Song Yang, Yu Wang. "Crisp-BP: Continuous Wrist PPG-Based Blood Pressure Measurement". _Proceedings of the 27th Annual International Conference on Mobile Computing and Networking_, 2021, pp. 378–391.
 
 
 ### Abstract:
