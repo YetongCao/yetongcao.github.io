@@ -28,13 +28,14 @@ Selected Publications
 
 ### Conference Papers
 
-**[IMUWT/UbiCom'23]** **Yetong Cao**, Chao Cai, Anbo Yu, Fan Li, Jun Luo, [EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform](https://dl.acm.org/doi/abs/10.1145/3596242), In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 7(2), 1-23. [PDF](https://yetongcao.github.io/files/EarACE.pdf) 
+**[IMUWT/UbiCom'23]** **Yetong Cao**, Chao Cai, Anbo Yu, Fan Li, Jun Luo, [EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform](https://dl.acm.org/doi/abs/10.1145/3596242), In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 7(2), 1-23. [PDF](../files/EarACE.pdf) 
 
-**[INFOCOM'23]** **Yetong Cao**, Chao Cai, Fan Li, Zhe Chen, Jun Luo, HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones, _to appear_. [PDF](https://yetongcao.github.io/files/HeartPrint.pdf) [Slides](https://yetongcao.github.io/files/HeartPrint.pptx)
 
-**[INFOCOM'23]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Chunhui Duan, Yu Wang, I Can Hear You Without a Microphone: Live Speech Eavesdropping From Earphone Motion Sensors, _to appear_. [PDF](https://yetongcao.github.io/files/EarSpy.pdf) [Slides](https://yetongcao.github.io/files/EarSpy.pptx)
+**[INFOCOM'23]** **Yetong Cao**, Chao Cai, Fan Li, Zhe Chen, Jun Luo, HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones, _to appear_. [PDF](https://yetongcao.github.io/files/HeartPrint.pdf) [Slides](../files/HeartPrint.pptx)
 
-**[IMWUT/UbiComp'22]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen liu, Li Zhang, Yu Wang, [Guard Your Heart Silently: Continuous Electrocardiogram Waveform Monitoring with Wrist-Worn Motion Sensor](https://dl.acm.org/doi/abs/10.1145/3550307), In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 6(3), 1-29. [PDF](https://yetongcao.github.io/files/VibCardiogram.pdf) [Slides](https://yetongcao.github.io/files/vibcardiogram.pptx)
+**[INFOCOM'23]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Chunhui Duan, Yu Wang, I Can Hear You Without a Microphone: Live Speech Eavesdropping From Earphone Motion Sensors, _to appear_. [PDF](../files/EarSpy.pdf) [Slides](../files/EarSpy.pptx)
+
+**[IMWUT/UbiComp'22]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen liu, Li Zhang, Yu Wang, [Guard Your Heart Silently: Continuous Electrocardiogram Waveform Monitoring with Wrist-Worn Motion Sensor](https://dl.acm.org/doi/abs/10.1145/3550307), In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 6(3), 1-29. [PDF](../files/VibCardiogram.pdf) [Slides](../files/vibcardiogram.pptx)
 
 **[MobiCom'21]** **Yetong Cao**, Huijie Chen, Fan Li, Yu Wang, [Crisp-Bp: Continuous Wrist Ppg-Based Blood Pressure Measurement](https://dl.acm.org/doi/abs/10.1145/3447993.3483241), In _Proceedings of the 27th Annual International Conference on Mobile Computing and Networking_ (pp. 378-391). [PDF](https://yetongcao.github.io/files/Crisp-BP.pdf) [Slides](https://yetongcao.github.io/files/Mobicom-15min.pptx)
 
