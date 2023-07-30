@@ -28,8 +28,13 @@ Selected Publications
 
 **Conference Papers**
 
-to be added
+[ACM IMUWT/UbiComp 2023] **Yetong Cao**, Chao Cai, Anbo Yu, Fan Li, Jun Luo, _EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform_, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7(2), 1-23. [PDF](https://yetongcao.github.io/files/EarACE.pdf) [Slides] [Misc](https://dl.acm.org/doi/abs/10.1145/3596242)
 
+[IEEE INFOCOM 2023] **Yetong Cao**, Chao Cai, Fan Li, Zhe Chen, Jun Luo, _HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones_,
 **Journal Articles**
+[ACM TOSN] **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, _Towards Reliable Driver Drowsiness Detection Leveraging Wearables_, Accepted for publication,[pdf](https://yetongcao.github.io/files/FDWatch.pdf)
 
-[ACM IMUWT] **Yetong Cao**, Chao Cai, Anbo Yu, Fan Li, Jun Luo, EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+
+
+
+
