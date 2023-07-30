@@ -8,7 +8,7 @@ venue: 'ACM IMWUT'
 paperurl: 'http://yetongcao.github.io/files/VibCardiogram.pdf'
 citation: #'Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. 2020. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
 ---
-Yetong Cao, Fan Li, Huijie Chen, Xiaochen liu, Li Zhang, Yu Wang. "Guard Your Heart Silently: Continuous Electrocardiogram Waveform Monitoring with Wrist-Worn Motion Sensor". _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 2022, pp.1917-1926.
+**Yetong Cao**, Fan Li*, Huijie Chen, Xiaochen liu, Li Zhang, Yu Wang. "Guard Your Heart Silently: Continuous Electrocardiogram Waveform Monitoring with Wrist-Worn Motion Sensor". _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, vol.6, no.3, pp. 1917-1926, 2022.
 
 
 ### Abstract:
