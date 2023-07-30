@@ -12,6 +12,7 @@ ABM Mohaimenur Rahman, **Yetong Cao**, Xinliang Wei, Pu Wang, Fan Li, Yu Wang. "
 
 ### Abstract:
 Handwritten signature authentication is an important service to defend against fraudulent activities. Current automated solutions rely heavily on dedicated devices and require certain user efforts. In this work, we explore the feasibility of a new type of signature authentication system, SAP - Signature Authentication with PPG Sensor, which leverages Photoplethysmography (PPG) sensors in wrist-worn wearable devices. To make SAP non-intrusive and secure, we design effective algorithms to separate the signature signals from the heartbeat signals in the raw PPG signals. We implement a low-cost hardware prototype of SAP. Our preliminary experimental results show that SAP can achieve an average F1 score of up to 98%.
+
 [<ins>Download PDF</ins>](../files/PPGPass-TMC-final.pdf)
 
 [<ins>View full paper</ins>](https://ieeexplore.ieee.org/abstract/document/9700557)
