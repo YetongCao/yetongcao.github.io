@@ -15,6 +15,6 @@ Hand hygiene has a significant impact on human health. Proper handwashing, havin
 
 [<ins>Download PDF</ins>](../files/AWash.pdf).
 
-[<ins>Download PDF</ins>](../files/awash.pptx)
+[<ins>Download slides</ins>](../files/awash.pptx)
 
-[<ins>View the full paper</ins>](https://ieeexplore.ieee.org/abstract/document/9488688)
+[<ins>View full paper</ins>](https://ieeexplore.ieee.org/abstract/document/9488688)
