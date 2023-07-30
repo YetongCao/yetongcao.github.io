@@ -8,7 +8,7 @@ venue: 'IEEE INFOCOM'
 paperurl: 'http://yetongcao.github.io/files/PPGPass.pdf'
 citation: #'Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. 2020. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
 ---
-Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. "PPGPass: Nonintrusive and Secure Mobile Two-Factor Authentication via Wearables". _IEEE Conference on Computer Communications_, 1917-1926.
+Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. "PPGPass: Nonintrusive and Secure Mobile Two-Factor Authentication via Wearables". _IEEE Conference on Computer Communications_, 2020, pp.1917-1926.
 
 
 ### Abstract:
