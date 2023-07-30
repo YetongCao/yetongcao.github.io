@@ -17,4 +17,4 @@ In recent years, particular attention has been devoted to earable acoustic sensi
 [<ins>Download PDF</ins>](../files/EarACE.pdf).
 
 
-[<ins>View the full paper</ins>](https://dl.acm.org/doi/abs/10.1145/3596242)
+[<ins>View full paper</ins>](https://dl.acm.org/doi/abs/10.1145/3596242)
