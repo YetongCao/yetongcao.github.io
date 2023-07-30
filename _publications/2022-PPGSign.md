@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "PPGSign: Handwritten Signature Authentication using Wearable PPG Sensor"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-PPGSign
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+date: 2023-06-16
+venue: 'IEEE INFOCOM'
+paperurl: 'http://yetongcao.github.io/files/PPGPass-TMC-final.pdf'
+citation: #'Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. 2020. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+ABM Mohaimenur Rahman, **Yetong Cao**, Xinliang Wei, Pu Wang, Fan Li, Yu Wang. "PPGSign: Handwritten Signature Authentication using Wearable PPG Sensor". _IEEE Wireless Communications and Networking Conference_, 2022, pp. 2721-2726.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+### Abstract:
+Handwritten signature authentication is a crucial service to defend against fraudulent activities. Existing automated solutions rely heavily on dedicated devices that are expensive and require different user efforts that affect the user experience. In this paper, we propose a new signature authentication system, PPGSign, which leverages Photoplethysmography (PPG) sensors in the existing wrist-worn wearable devices. The unique blood flow changes in the supplicant’s hand movement are exploited in this system to validate the signature. To make PPGSign nonintrusive and secure, we explore effective algorithms to separate the signature signals from the heartbeat signals in the raw PPG signals. We build a low-cost hardware prototype to verify our proposed method. Our experimental results show that PPGSign can achieve an average F1 score of up to 98%, which verifies the feasibility and efficiency of the proposed solution.
+[<ins>Download PDF</ins>](../files/PPGSign.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[<ins>View full paper</ins>](https://ieeexplore.ieee.org/abstract/document/9771813)
