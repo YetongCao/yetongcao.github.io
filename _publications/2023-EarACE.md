@@ -6,7 +6,7 @@ excerpt: #'This paper is about the number 1. The number 2 is left for future wor
 date: 2023-06-12
 venue: 'ACM IMWUT'
 paperurl: 'http://yetongcao.github.io/files/EarACE.pdf'
-citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Yetong Cao, Chao Cai, Anbo Yu, Fan Li, and Jun Luo. 2023. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
 ---
 ### Authors:
 Yetong Cao, Chao Cai, Anbo Yu, Fan Li, Jun Luo
