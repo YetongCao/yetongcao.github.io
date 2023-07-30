@@ -2,7 +2,7 @@
 title: "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform"
 collection: publications
 permalink: /publication/2023-EarACE
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 date: 2023-06-12
 venue: 'ACM IMWUT'
 paperurl: 'http://yetongcao.github.io/files/EarACE.pdf'
