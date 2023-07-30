@@ -32,4 +32,4 @@ to be added
 
 **Journal Articles**
 
-to be added
+[ACM IMUWT] **Yetong Cao**, Chao Cai, Anbo Yu, Fan Li, Jun Luo, EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
