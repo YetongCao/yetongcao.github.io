@@ -8,7 +8,7 @@ venue: 'ACM IMWUT'
 paperurl: 'http://yetongcao.github.io/files/EarACE.pdf'
 citation: #' 1-23.'
 ---
-Yetong Cao, Chao Cai, Anbo Yu, Fan Li, and Jun Luo. "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform". _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 7(2), 1-23.
+**Yetong Cao**, Chao Cai, Anbo Yu, Fan Li, and Jun Luo. "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform". _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, vol.7, no.2, pp. 1-23, 2023.
 
 
 ### Abstract:
