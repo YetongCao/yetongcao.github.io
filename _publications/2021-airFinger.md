@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "airFinger: Micro Finger Gesture Recognition via NIR Light Sensing for Smart Devices"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-airFinger
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+date: 2020-11-29
+venue: 'IEEE ICDCS'
+paperurl: 'http://yetongcao.github.io/files/airFinger'
+citation: #'Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. 2020. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Qian Zhang, **Yetong Cao**, Huijie Chen, Fan Li, Song Yang, Yu Wang, Zheng Yang, Yunhao Liu. "airFinger: Micro Finger Gesture Recognition via NIR Light Sensing for Smart Devices". _EEE 40th International Conference on Distributed Computing Systems_, 2020, pp. 552-562.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+### Abstract:
+Micro finger gesture recognition is an emerging approach to realize more friendly interaction between human and smart devices, especially for small wearable devices, such as smartwatches and virtual reality glasses. This paper proposes airFinger, a novel solution utilizing NIR light sensing to realize both real-time gesture recognition and finger tracking aiming at micro finger gestures. Using a custom NIR-based sensor with novel algorithms to capture subtle finger movements, airFinger enables to detect a rich set of micro finger gestures and track finger movements in terms of scrolling direction, velocity, and displacement. Besides, airFinger is capable of effective noise mitigation, gesture segmentation, and reducing false recognition due to the unintentional actions of users. Extensive experimental results demonstrate that airFinger has robustness against individual diversity, gesture inconsistency, and many other impacts. The overall performance reaches an average accuracy as high as 98.72% over a set of 8 micro finger gestures among 10, 000 gesture samples collected from 10 volunteers.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[<ins>Download PDF</ins>](../files/airFinger.pdf)
+
+[<ins>View full paper</ins>](https://ieeexplore.ieee.org/abstract/document/9355830)
