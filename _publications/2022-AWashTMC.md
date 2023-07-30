@@ -3,7 +3,7 @@ title: "Leveraging Wearables for Assisting the Elderly With Dementia in Handwash
 collection: publications
 permalink: /publication/2022-AWashTMC
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-06-16
+date: 2022-07-25
 venue: 'IEEE TMC'
 paperurl: 'http://yetongcao.github.io/files/TMC-AWash-Final.pdf'
 citation: #'Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. 2020. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
