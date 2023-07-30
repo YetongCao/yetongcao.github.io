@@ -37,24 +37,24 @@ Selected Publications
 
 **[IMWUT/UbiComp'22]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen liu, Li Zhang, Yu Wang, [Guard Your Heart Silently: Continuous Electrocardiogram Waveform Monitoring with Wrist-Worn Motion Sensor](https://dl.acm.org/doi/abs/10.1145/3550307), In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 6(3), 1-29. [PDF](../files/VibCardiogram.pdf) [Slides](../files/vibcardiogram.pptx)
 
-**[MobiCom'21]** **Yetong Cao**, Huijie Chen, Fan Li, Yu Wang, [Crisp-Bp: Continuous Wrist Ppg-Based Blood Pressure Measurement](https://dl.acm.org/doi/abs/10.1145/3447993.3483241), In _Proceedings of the 27th Annual International Conference on Mobile Computing and Networking_ (pp. 378-391). [PDF](https://yetongcao.github.io/files/Crisp-BP.pdf) [Slides](https://yetongcao.github.io/files/Mobicom-15min.pptx)
+**[MobiCom'21]** **Yetong Cao**, Huijie Chen, Fan Li, Yu Wang, [Crisp-Bp: Continuous Wrist Ppg-Based Blood Pressure Measurement](https://dl.acm.org/doi/abs/10.1145/3447993.3483241), In _Proceedings of the 27th Annual International Conference on Mobile Computing and Networking_ (pp. 378-391). [PDF](../files/Crisp-BP.pdf) [Slides](../files/Mobicom-15min.pptx)
 
-**[INFOCOM'21]** **Yetong Cao**, Huijie Chen, Fan Li, Song Yang, Yu Wang, [AWash: Handwashing Assistance for the Elderly With Dementia via Wearables](https://ieeexplore.ieee.org/abstract/document/9488688). In _IEEE Conference on Computer Communications_ (pp. 1-10). [PDF](https://yetongcao.github.io/files/AWash.pdf) [Slides](https://yetongcao.github.io/files/awash.pptx)
+**[INFOCOM'21]** **Yetong Cao**, Huijie Chen, Fan Li, Song Yang, Yu Wang, [AWash: Handwashing Assistance for the Elderly With Dementia via Wearables](https://ieeexplore.ieee.org/abstract/document/9488688). In _IEEE Conference on Computer Communications_ (pp. 1-10). [PDF](../files/AWash.pdf) [Slides](../files/awash.pptx)
 
-**[INFOCOM'21]** **Yetong Cao**, Huijie Chen, Fan Li, Yu Wang, [CanalScan: Tongue-Jaw Movement Recognition via Ear Canal Deformation Sensing](https://ieeexplore.ieee.org/abstract/document/9488852). In _IEEE Conference on Computer Communications_ (pp. 1-10). [PDF](https://yetongcao.github.io/files/CanalScan.pdf) [Slides](https://yetongcao.github.io/files/canalscan.pptx)
+**[INFOCOM'21]** **Yetong Cao**, Huijie Chen, Fan Li, Yu Wang, [CanalScan: Tongue-Jaw Movement Recognition via Ear Canal Deformation Sensing](https://ieeexplore.ieee.org/abstract/document/9488852). In _IEEE Conference on Computer Communications_ (pp. 1-10). [PDF](../files/CanalScan.pdf) [Slides](../files/canalscan.pptx)
 
-**[INFOCOM'20]** **Yetong Cao**, Qian Zhang, Fan Li, Song Yang, Yu Wang, [PPGPass: Nonintrusive and Secure Mobile Two-Factor Authentication via Wearables](https://ieeexplore.ieee.org/abstract/document/9155380), In IEEE INFOCOM 2020-IEEE Conference on Computer Communications (pp. 1917-1926). [PDF](https://yetongcao.github.io/files/PPGPass.pdf) [Slides](https://yetongcao.github.io/files/INFOCOM2020-PPGPass-final.pptx)
+**[INFOCOM'20]** **Yetong Cao**, Qian Zhang, Fan Li, Song Yang, Yu Wang, [PPGPass: Nonintrusive and Secure Mobile Two-Factor Authentication via Wearables](https://ieeexplore.ieee.org/abstract/document/9155380), In IEEE INFOCOM 2020-IEEE Conference on Computer Communications (pp. 1917-1926). [PDF](../files/PPGPass.pdf) [Slides](../files/INFOCOM2020-PPGPass-final.pptx)
 
 ### Journal Articles
 
-**[TOSN'23]** **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, [Towards Reliable Driver Drowsiness Detection Leveraging Wearables](https://dl.acm.org/doi/abs/10.1145/3560821), Accepted for publication, [pdf](https://yetongcao.github.io/files/FDWatch.pdf)
+**[TOSN'23]** **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, [Towards Reliable Driver Drowsiness Detection Leveraging Wearables](https://dl.acm.org/doi/abs/10.1145/3560821), Accepted for publication, [pdf](../files/FDWatch.pdf)
 
-**[TMC'22]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Yu Wang, [Tongue-Jaw Movement Recognition Through Acoustic Sensing on Smartphones](https://ieeexplore.ieee.org/abstract/document/9953323), _IEEE Transactions on Mobile Computing_, Accepted for publication, [pdf](https://yetongcao.github.io/files/CanalScanTMC-Final.pdf)
+**[TMC'22]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Yu Wang, [Tongue-Jaw Movement Recognition Through Acoustic Sensing on Smartphones](https://ieeexplore.ieee.org/abstract/document/9953323), _IEEE Transactions on Mobile Computing_, Accepted for publication, [pdf](../files/CanalScanTMC-Final.pdf)
 
-**[TMC'22]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Song Yang, Yu Wang, [Leveraging Wearables for Assisting the Elderly With Dementia in Handwashing](https://ieeexplore.ieee.org/abstract/document/9839489), _IEEE Transactions on Mobile Computing_, Accepted for publication, [pdf](https://yetongcao.github.io/files/TMC-AWash-Final.pdf)
+**[TMC'22]** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Song Yang, Yu Wang, [Leveraging Wearables for Assisting the Elderly With Dementia in Handwashing](https://ieeexplore.ieee.org/abstract/document/9839489), _IEEE Transactions on Mobile Computing_, Accepted for publication, [pdf](../files/TMC-AWash-Final.pdf)
 
 
-**[TMC'21]** **Yetong Cao**, Fan Li, Qian Zhang, Song Yang, Yu Wang, [Towards Nonintrusive and Secure Mobile Two-Factor Authentication on Wearables](https://ieeexplore.ieee.org/abstract/document/9645232), _IEEE Transactions on Mobile Computing_, 22(5), 3046-3061, [pdf](https://yetongcao.github.io/files/PPGPass-TMC-final.pdf)
+**[TMC'21]** **Yetong Cao**, Fan Li, Qian Zhang, Song Yang, Yu Wang, [Towards Nonintrusive and Secure Mobile Two-Factor Authentication on Wearables](https://ieeexplore.ieee.org/abstract/document/9645232), _IEEE Transactions on Mobile Computing_, 22(5), 3046-3061, [pdf](../files/PPGPass-TMC-final.pdf)
 
 
 
