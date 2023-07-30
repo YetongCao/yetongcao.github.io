@@ -16,6 +16,6 @@ Mobile devices are promising to apply two-factor authentication in order to impr
 
 [<ins>Download PDF</ins>](../files/PPGPass.pdf).
 
-[<ins>Download Slides</ins>](../files/INFOCOM2020-PPGPass-final.pptx).
+[<ins>Download slides</ins>](../files/INFOCOM2020-PPGPass-final.pptx).
 
-[<ins>View the full paper</ins>](https://ieeexplore.ieee.org/abstract/document/9155380)
+[<ins>View full paper</ins>](https://ieeexplore.ieee.org/abstract/document/9155380)
