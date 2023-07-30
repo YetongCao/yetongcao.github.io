@@ -6,7 +6,7 @@ excerpt: #'This paper is about the number 1. The number 2 is left for future wor
 date: 2023-06-12
 venue: 'ACM IMWUT'
 paperurl: 'http://yetongcao.github.io/files/EarACE.pdf'
-citation: 'Yetong Cao, Chao Cai, Anbo Yu, Fan Li, and Jun Luo. 2023. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
+citation: #'Yetong Cao, Chao Cai, Anbo Yu, Fan Li, and Jun Luo. 2023. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
 ---
 Yetong Cao, Chao Cai, Anbo Yu, Fan Li, and Jun Luo. 2023. EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7(2), 1-23. https://doi.org/10.1145/3596242
 
