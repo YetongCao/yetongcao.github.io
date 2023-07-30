@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "Leveraging Wearables for Assisting the Elderly With Dementia in Handwashing"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-AWashTMC
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+date: 2023-06-16
+venue: 'IEEE INFOCOM'
+paperurl: 'http://yetongcao.github.io/files/TMC-AWash-Final.pdf'
+citation: #'Yetong Cao, Qian Zhang, Fan Li, Song Yang, Yu Wang. 2020. &quot;EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. 7(2), 1-23.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Yetong Cao, Fan Li, Huijie Chen, Xiaochen Liu, Song Yang, Yu Wang. "Leveraging Wearables for Assisting the Elderly With Dementia in Handwashing". _IEEE Transactions on Mobile Computing_, Accepted for publication.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+### Abstract:
+Mobile devices are promising to apply two-factor authentication in order to improve system security and enhance user privacy-preserving. Existing solutions usually have certain limits of requiring some form of user effort, which might seriously affect user experience and delay authentication time. In this paper, we propose PPGPass, a novel mobile two-factor authentication system, which leverages Photoplethysmography (PPG) sensors in wrist-worn wearables to extract individual characteristics of PPG signals. In order to realize both nonintrusive and secure, we design a two-stage algorithm to separate clean heartbeat signals from PPG signals contaminated by motion artifacts, which allows verifying users without intentionally staying still during the process of authentication. In addition, to deal with non-cancelable issues when biometrics are compromised, we design a repeatable and non-invertible method to generate cancelable feature templates as alternative credentials, which enables to defense against man-in-the-middle attacks and replay attacks. To the best of our knowledge, PPGPass is the first nonintrusive and secure mobile two-factor authentication based on PPG sensors in wearables. We build a prototype of PPGPass and conduct the system with comprehensive experiments involving multiple participants. PPGPass can achieve an average F1 score of 95.3%, which confirms its high effectiveness, security, and usability.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[<ins>Download PDF</ins>](../files/TMC-AWash-Final.pdf)
+
+[<ins>View full paper</ins>](https://ieeexplore.ieee.org/abstract/document/9839489)
