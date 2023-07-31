@@ -2,7 +2,7 @@
 title: "AWash: Handwashing Assistance for the Elderly With Dementia via Wearables"
 collection: publications
 permalink: /publication/2021-AWash
-excerpt: "<img src='/images/teaserAWash.png'>"
+excerpt: "<img src='/images/teaserAWash.png' width='600'>"
 date: 2021-05-10
 venue: 'IEEE INFOCOM'
 paperurl: 'http://yetongcao.github.io/files/AWash.pdf'
