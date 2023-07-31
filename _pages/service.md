@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Journal Reviewer 
+## Reviewer 
 
 * IEEE Transactions on Mobile Computing (TMC)
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
