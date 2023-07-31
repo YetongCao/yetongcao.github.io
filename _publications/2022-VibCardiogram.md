@@ -2,7 +2,7 @@
 title: "Guard Your Heart Silently: Continuous Electrocardiogram Waveform Monitoring with Wrist-Worn Motion Sensor"
 collection: publications
 permalink: /publication/2022-VibCardiogram
-excerpt: "<img src='/images/teaserVibcardiogram.png'>"
+excerpt: "<img src='/files/teaserVibcardiogram.png', width='600'>"
 date: 2022-09-07
 venue: 'ACM IMWUT'
 paperurl: 'http://yetongcao.github.io/files/VibCardiogram.pdf'
