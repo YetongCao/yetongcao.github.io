@@ -2,7 +2,7 @@
 title: "HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones"
 collection: publications
 permalink: /publication/2023-HeartPrint
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: "<img src='/images/teaserheartprint.png'>"
 date: 2023-06-16
 venue: 'IEEE INFOCOM'
 paperurl: 'http://yetongcao.github.io/files/HeartPrint.pdf'
