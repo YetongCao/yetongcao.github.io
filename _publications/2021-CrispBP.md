@@ -2,7 +2,7 @@
 title: "Crisp-BP: Continuous Wrist PPG-Based Blood Pressure Measurement"
 collection: publications
 permalink: /publication/2021-CrispBP
-excerpt: "<img src='/images/teaserCrispBP.png'>"
+excerpt: "<img src='/images/teaserCrispBP.png' width='600'>"
 date: 2021-10-25
 venue: 'ACM MOBICOM'
 paperurl: 'http://yetongcao.github.io/files/Crisp-BP.pdf'
