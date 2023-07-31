@@ -2,7 +2,7 @@
 title: "Tongue-Jaw Movement Recognition Through Acoustic Sensing on Smartphones"
 collection: publications
 permalink: /publication/2022-CanalScanTMC
-excerpt: "<img src='/images/teaserCanalScan.png'>"
+excerpt: #"<img src='/images/teaserCanalScan.png'>"
 date: 2022-11-16
 venue: 'IEEE TMC'
 paperurl: 'http://yetongcao.github.io/files/CanalScanTMC-Final.pdf'
