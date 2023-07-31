@@ -17,6 +17,10 @@ Her research interests include **Smart Sensing**, **Mobile Computing**, **Mobile
 She is maily dedicated to the integration of artificial intelligence and signal processing techniques to achieve innovative applications. Her work places a significant emphasis on system implementation and validation in real-world scenarios, with a focus on ensuring user-friendliness and practicality.
 
 
+News
+======
+**[23/05]** our paper "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platfor" was accepted to **<font color="#dd0000">ACM Ubicomp/IMWUT</font>**.
+
 
 Selected Publications
 ======
