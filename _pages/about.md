@@ -19,7 +19,7 @@ She is maily dedicated to the integration of artificial intelligence and signal 
 
 News
 ======
-**[23/05]** our paper "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platfor" was accepted to **<font color="#dd0000">ACM Ubicomp/IMWUT</font>**.
+**[23/05]** our paper "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platfor" was accepted to **<font color="#dd00dd">ACM Ubicomp/IMWUT</font>**.
 
 
 Selected Publications
@@ -47,13 +47,13 @@ Selected Publications
 
 ### Journal Articles
 
-**<font color="#000066">[TOSN]</font>** **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, [Towards Reliable Driver Drowsiness Detection Leveraging Wearables](https://dl.acm.org/doi/abs/10.1145/3560821), _ACM Transactions on Sensor Networks_, Accepted for publication, [<ins>PDF</ins>](../files/FDWatch.pdf)
+**<font color="#00dddd">[TOSN]</font>** **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, [Towards Reliable Driver Drowsiness Detection Leveraging Wearables](https://dl.acm.org/doi/abs/10.1145/3560821), _ACM Transactions on Sensor Networks_, Accepted for publication, [<ins>PDF</ins>](../files/FDWatch.pdf)
 
-**<font color="#000066">[TMC]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Yu Wang, [Tongue-Jaw Movement Recognition Through Acoustic Sensing on Smartphones](https://ieeexplore.ieee.org/abstract/document/9953323), _IEEE Transactions on Mobile Computing_, Accepted for publication, [<ins>PDF</ins>](../files/CanalScanTMC-Final.pdf)
+**<font color="#00dddd">[TMC]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Yu Wang, [Tongue-Jaw Movement Recognition Through Acoustic Sensing on Smartphones](https://ieeexplore.ieee.org/abstract/document/9953323), _IEEE Transactions on Mobile Computing_, Accepted for publication, [<ins>PDF</ins>](../files/CanalScanTMC-Final.pdf)
 
-**<font color="#000066">[TMC]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Song Yang, Yu Wang, [Leveraging Wearables for Assisting the Elderly With Dementia in Handwashing](https://ieeexplore.ieee.org/abstract/document/9839489), _IEEE Transactions on Mobile Computing_, Accepted for publication, [<ins>PDF</ins>](../files/TMC-AWash-Final.pdf)
+**<font color="#00dddd">[TMC]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Song Yang, Yu Wang, [Leveraging Wearables for Assisting the Elderly With Dementia in Handwashing](https://ieeexplore.ieee.org/abstract/document/9839489), _IEEE Transactions on Mobile Computing_, Accepted for publication, [<ins>PDF</ins>](../files/TMC-AWash-Final.pdf)
 
-**<font color="#000066">[TMC]</font>** **Yetong Cao**, Fan Li, Qian Zhang, Song Yang, Yu Wang, [Towards Nonintrusive and Secure Mobile Two-Factor Authentication on Wearables](https://ieeexplore.ieee.org/abstract/document/9645232), _IEEE Transactions on Mobile Computing_, 22(5), 3046-3061, 2023. [<ins>PDF</ins>](../files/PPGPass-TMC-final.pdf)
+**<font color="#00dddd">[TMC]</font>** **Yetong Cao**, Fan Li, Qian Zhang, Song Yang, Yu Wang, [Towards Nonintrusive and Secure Mobile Two-Factor Authentication on Wearables](https://ieeexplore.ieee.org/abstract/document/9645232), _IEEE Transactions on Mobile Computing_, 22(5), 3046-3061, 2023. [<ins>PDF</ins>](../files/PPGPass-TMC-final.pdf)
 
 
 
