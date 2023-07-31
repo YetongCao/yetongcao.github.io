@@ -3,14 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Patents"
-    url: /teaching/    
+  
     
   - title: "Professional Activities"
     url: /activities/
         
-  - title: "Blog Posts"
-    url: /year-archive/
 
   - title: "Awards"
     url: /awards/
