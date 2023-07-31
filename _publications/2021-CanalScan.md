@@ -2,7 +2,7 @@
 title: "CanalScan: Tongue-Jaw Movement Recognition via Ear Canal Deformation Sensing"
 collection: publications
 permalink: /publication/2021-CanalScan
-excerpt: "<img src='/images/teaserCanalScan.png'>"
+excerpt: "<img src='/images/teaserCanalScan.png' width='600'>"
 date: 2021-05-10
 venue: 'IEEE INFOCOM'
 paperurl: 'http://yetongcao.github.io/files/CanalScan.pdf'
