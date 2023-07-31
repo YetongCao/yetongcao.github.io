@@ -1,5 +1,5 @@
 ---
-title: "CanalScan: Tongue-Jaw Movement Recognition via Ear Canal Deformation Sensing"
+title: "Patentsss"
 collection: publications
 permalink: /patents/awash
 excerpt: "<img src='/images/teaserCanalScan.png' width='600'>"
