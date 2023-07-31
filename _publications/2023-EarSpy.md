@@ -2,7 +2,7 @@
 title: "I Can Hear You Without a Microphone: Live Speech Eavesdropping From Earphone Motion Sensors"
 collection: publications
 permalink: /publication/2023-EarSpy
-excerpt: "<img src='/images/teaserEarSp.png' width='600'>"
+excerpt: "<img src='/images/teaserEarSpy.png' width='600'>"
 date: 2023-06-16
 venue: 'IEEE INFOCOM'
 paperurl: 'http://yetongcao.github.io/files/EarSpy.pdf'
