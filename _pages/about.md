@@ -23,6 +23,8 @@ Selected Publications
 
 ### Conference Papers
 
+<font color="#dd00dd">浅紫色文字</font><br /> 
+
 **[IMUWT/UbiCom'23]** **Yetong Cao**, Chao Cai, Anbo Yu, Fan Li, Jun Luo, [EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform](https://dl.acm.org/doi/abs/10.1145/3596242), In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 7(2), 1-23. 2023. [<ins>PDF</ins>](../files/EarACE.pdf) 
 
 
