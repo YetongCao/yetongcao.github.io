@@ -2,7 +2,7 @@
 title: "Leveraging Wearables for Assisting the Elderly With Dementia in Handwashing"
 collection: publications
 permalink: /publication/2022-AWashTMC
-excerpt: "<img src='/images/teaserAWash.png'>"
+excerpt: #"<img src='/images/teaserAWash.png'>"
 date: 2022-07-25
 venue: 'IEEE TMC'
 paperurl: 'http://yetongcao.github.io/files/TMC-AWash-Final.pdf'
