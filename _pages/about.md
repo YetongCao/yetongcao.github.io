@@ -21,7 +21,7 @@ News
 ======
 **[23/05]** our paper "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platfor" was accepted to **<font color="#dd00dd">ACM IMWUT/Ubicomp</font>**.
 
-**[23/011]** our paper "Live Speech Recognition via Earphone Motion Sensors" was accepted to **<font color="#dd0000">[TMC]</font>**.
+**[23/011]** our paper "Live Speech Recognition via Earphone Motion Sensors" was accepted to **<font color="#dd0000">TMC</font>**.
 
 
 Selected Publications
@@ -48,6 +48,7 @@ Selected Publications
 **<font color="#dd00dd">[INFOCOM'20]</font>** **Yetong Cao**, Qian Zhang, Fan Li, Song Yang, Yu Wang, [PPGPass: Nonintrusive and Secure Mobile Two-Factor Authentication via Wearables](https://ieeexplore.ieee.org/abstract/document/9155380), In _IEEE Conference on Computer Communications_, 2021, 1917-1926. [<ins>PDF</ins>](../files/PPGPass.pdf) [<ins>Slides</ins>](../files/INFOCOM2020-PPGPass-final.pptx)
 
 ### Journal Articles
+
 
 **<font color="#dd0000">[TOSN]</font>** **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, [Towards Reliable Driver Drowsiness Detection Leveraging Wearables](https://dl.acm.org/doi/abs/10.1145/3560821), _ACM Transactions on Sensor Networks_, Accepted for publication, [<ins>PDF</ins>](../files/FDWatch.pdf)
 
