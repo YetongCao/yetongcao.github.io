@@ -21,7 +21,7 @@ News
 ======
 **[23/05]** our paper "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platfor" was accepted to **<font color="#dd00dd">ACM IMWUT/Ubicomp</font>**.
 
-**[23/011]** our paper "Live Speech Recognition via Earphone Motion Sensors" was accepted to **<font color="#dd0000">TMC</font>**.
+**[23/11]** our paper "Live Speech Recognition via Earphone Motion Sensors" was accepted to **<font color="#dd0000">TMC</font>**.
 
 
 Selected Publications
