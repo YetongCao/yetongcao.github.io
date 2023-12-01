@@ -19,9 +19,17 @@ She is maily dedicated to the integration of artificial intelligence and signal 
 
 News
 ======
-**[23/05]** our paper "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platfor" was accepted to **<font color="#dd00dd">ACM IMWUT/Ubicomp</font>**.
+**[1/12]** our paper "hBP-Fi: Contactless Blood Pressure Monitoring via Deep-Analyzed Hemodynamics" was accepted to **<font color="#dd00dd">[INFOCOM'24]</font>**.
+
+
+**[1/12]** our paper "PPGSpotter: Personalized Free Weight Training Monitoring Using Wearable PPG Sensor" was accepted to **<font color="#dd00dd">[INFOCOM'24]</font>**.
+
 
 **[23/11]** our paper "Live Speech Recognition via Earphone Motion Sensors" was accepted to **<font color="#dd0000">TMC</font>**.
+
+**[23/05]** our paper "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platfor" was accepted to **<font color="#dd00dd">ACM IMWUT/Ubicomp</font>**.
+
+
 
 
 Selected Publications
