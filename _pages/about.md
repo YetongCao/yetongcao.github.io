@@ -19,6 +19,8 @@ She is mainly dedicated to the integration of artificial intelligence and signal
 
 News
 ======
+**[18/1]** Yetong Cao has been honored with the <ins>Doctoral Dissertation Incentive Program\ 博士学位论文激励计划 by the China Institute of Communications</ins>.(https://www.china-cic.cn/Detail/24/5290/5290)
+
 **[1/12]** our paper "hBP-Fi: Contactless Blood Pressure Monitoring via Deep-Analyzed Hemodynamics" was accepted to **<font color="#dd00dd">[INFOCOM'24]</font>**.
 
 
