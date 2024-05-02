@@ -13,6 +13,7 @@ redirect_from:
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 * IEEE Global Communications Conferenc (GLOBECOM)
 * International Performance Computing And Communications Conference (IPCCC)
+* China Communications
 
 ## Technical Programme Committee
 
