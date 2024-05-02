@@ -16,7 +16,7 @@ redirect_from:
 
 ## Technical Programme Committee
 
-* ACM S3 2022 WORKSHOP
+* ACM S3 2022 Workshop
 * ACM BodySys 2024 Workshop
 * IEEE IPCCC 2024
 
