@@ -14,22 +14,26 @@ Yetong Cao is currently a research fellow at the College of Computing and Data S
 Research Interests
 ======
 Her research interests include **Smart Sensing**, **Mobile Computing**, **Mobile Health**, and **Security & Privacy**. 
-She is mainly dedicated to the integration of artificial intelligence and signal processing techniques to achieve innovative applications. Her work places a significant emphasis on system implementation and validation in real-world scenarios, with a focus on ensuring user-friendliness and practicality.
+She is primarily devoted to integrating artificial intelligence with signal processing techniques to create innovative applications. Her work places a significant emphasis on system implementation and validation in real-world scenarios, with a focus on ensuring user-friendliness and practicality.
 
 
 News
 ======
+**[19/7]** our paper "Enabling Passive User Authentication via Heart Sounds on In-Ear Microphones" accepted at **<font color="#dd00dd">TDSC</font>**.
+
+**[20/3]** our paper "BrailleReader: Braille Character Recognition Using Wearable Motion Sensor" accepted at **<font color="#dd00dd">TMC</font>**.
+
 **[18/1]** Yetong Cao has been honored with the <ins>Doctoral Dissertation Incentive Program\ 博士学位论文激励计划 by the China Institute of Communications</ins>.(https://www.china-cic.cn/Detail/24/5290/5290)
 
-**[1/12]** our paper "hBP-Fi: Contactless Blood Pressure Monitoring via Deep-Analyzed Hemodynamics" was accepted to **<font color="#dd00dd">[INFOCOM'24]</font>**.
+**[1/12]** our paper "hBP-Fi: Contactless Blood Pressure Monitoring via Deep-Analyzed Hemodynamics" accepted at **<font color="#dd00dd">INFOCOM'24</font>**.
 
 
-**[1/12]** our paper "PPGSpotter: Personalized Free Weight Training Monitoring Using Wearable PPG Sensor" was accepted to **<font color="#dd00dd">[INFOCOM'24]</font>**.
+**[1/12]** our paper "PPGSpotter: Personalized Free Weight Training Monitoring Using Wearable PPG Sensor" accepted at **<font color="#dd00dd">INFOCOM'24</font>**.
 
 
-**[23/11]** our paper "Live Speech Recognition via Earphone Motion Sensors" was accepted to **<font color="#dd0000">TMC</font>**.
+**[23/11]** our paper "Live Speech Recognition via Earphone Motion Sensors" accepted at **<font color="#dd0000">TMC</font>**.
 
-**[23/05]** our paper "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platfor" was accepted to **<font color="#dd00dd">ACM IMWUT/Ubicomp</font>**.
+**[23/05]** our paper "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platfor" accepted at **<font color="#dd00dd">ACM IMWUT/Ubicomp</font>**.
 
 
 
@@ -38,6 +42,10 @@ Selected Publications
 ======
 
 ### Conference Papers
+
+**<font color="#dd00dd">[INFOCOM'24]</font>** **Yetong Cao**, Shujie Zhang, Fan Li, Zhe Chen, Jun Luo, hBP-Fi: Contactless Blood Pressure Monitoring via Deep-Analyzed Hemodynamics, _to appear_. [<ins>PDF</ins>](https://yetongcao.github.io/files/HeartPrint.pdf) [<ins>Slides</ins>](../files/HeartPrint.pptx)
+
+**<font color="#dd00dd">[INFOCOM'24]</font>** Xiaochen Liu, Fan Li, **Yetong Cao**, Shengchun Zhai, Song Yang, Yu Wang, PPGSpotter: Personalized Free Weight Training Monitoring Using Wearable PPG Sensor, _to appear_. [<ins>PDF</ins>](https://yetongcao.github.io/files/HeartPrint.pdf) 
 
 
 **<font color="#dd00dd">[IMUWT/UbiComp'23]</font>**  **Yetong Cao**, Chao Cai, Anbo Yu, Fan Li, Jun Luo, [EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform](https://dl.acm.org/doi/abs/10.1145/3596242), In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 7(2), 1-23. 2023. [<ins>PDF</ins>](../files/EarACE.pdf) 
