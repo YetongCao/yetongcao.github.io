@@ -43,17 +43,17 @@ Selected Publications
 
 ### Conference Papers
 
-**<font color="#dd00dd">[INFOCOM'24]</font>** **Yetong Cao**, Shujie Zhang, Fan Li, Zhe Chen, Jun Luo, hBP-Fi: Contactless Blood Pressure Monitoring via Deep-Analyzed Hemodynamics, _to appear_. [<ins>PDF</ins>](https://yetongcao.github.io/files/HeartPrint.pdf) [<ins>Slides</ins>](../files/HeartPrint.pptx)
+**<font color="#dd00dd">[INFOCOM'24]</font>** **Yetong Cao**, Shujie Zhang, Fan Li, Zhe Chen, Jun Luo, hBP-Fi: Contactless Blood Pressure Monitoring via Deep-Analyzed Hemodynamics, _to appear_. [<ins>PDF</ins>](https://yetongcao.github.io/files/files/infocom-hbpfi.pdf) [<ins>Slides</ins>](../files/hBP-fi-INFOCOM2.pptx)
 
-**<font color="#dd00dd">[INFOCOM'24]</font>** Xiaochen Liu, Fan Li, **Yetong Cao**, Shengchun Zhai, Song Yang, Yu Wang, PPGSpotter: Personalized Free Weight Training Monitoring Using Wearable PPG Sensor, _to appear_. [<ins>PDF</ins>](https://yetongcao.github.io/files/HeartPrint.pdf) 
+**<font color="#dd00dd">[INFOCOM'24]</font>** Xiaochen Liu, Fan Li, **Yetong Cao**, Shengchun Zhai, Song Yang, Yu Wang, PPGSpotter: Personalized Free Weight Training Monitoring Using Wearable PPG Sensor, _to appear_. [<ins>PDF</ins>](https://yetongcao.github.io/files/PPGSpotter.pdf) 
 
 
 **<font color="#dd00dd">[IMUWT/UbiComp'23]</font>**  **Yetong Cao**, Chao Cai, Anbo Yu, Fan Li, Jun Luo, [EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform](https://dl.acm.org/doi/abs/10.1145/3596242), In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 7(2), 1-23. 2023. [<ins>PDF</ins>](../files/EarACE.pdf) 
 
 
-**<font color="#dd00dd">[INFOCOM'23]</font>** **Yetong Cao**, Chao Cai, Fan Li, Zhe Chen, Jun Luo, HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones, _to appear_. [<ins>PDF</ins>](https://yetongcao.github.io/files/HeartPrint.pdf) [<ins>Slides</ins>](../files/HeartPrint.pptx)
+**<font color="#dd00dd">[INFOCOM'23]</font>** **Yetong Cao**, Chao Cai, Fan Li, Zhe Chen, Jun Luo, HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones, In _IEEE Conference on Computer Communications_, 2023, 1-10. [<ins>PDF</ins>](https://yetongcao.github.io/files/HeartPrint.pdf) [<ins>Slides</ins>](../files/HeartPrint.pptx)
 
-**<font color="#dd00dd">[INFOCOM'23]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Chunhui Duan, Yu Wang, I Can Hear You Without a Microphone: Live Speech Eavesdropping From Earphone Motion Sensors, _to appear_. [<ins>PDF</ins>](../files/EarSpy.pdf) [<ins>Slides</ins>](../files/EarSpy.pptx)
+**<font color="#dd00dd">[INFOCOM'23]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Chunhui Duan, Yu Wang, I Can Hear You Without a Microphone: Live Speech Eavesdropping From Earphone Motion Sensors, In _IEEE Conference on Computer Communications_, 2023, 1-10. [<ins>PDF</ins>](../files/EarSpy.pdf) [<ins>Slides</ins>](../files/EarSpy.pptx)
 
 **<font color="#dd00dd">[IMWUT/UbiComp'22]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen liu, Li Zhang, Yu Wang, [Guard Your Heart Silently: Continuous Electrocardiogram Waveform Monitoring with Wrist-Worn Motion Sensor](https://dl.acm.org/doi/abs/10.1145/3550307), In _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_, 6(3), 1-29, 2022. [<ins>PDF</ins>](../files/VibCardiogram.pdf) [<ins>Slides</ins>](../files/vibcardiogram.pptx)
 
@@ -67,12 +67,18 @@ Selected Publications
 
 ### Journal Articles
 
+**<font color="#dd0000">[TDSC]</font>** **Yetong Cao**, Chao Cai, Fan Li, Zhe Chen, Jun Luo, [Enabling Passive User Authentication via Heart Sounds on In-Ear Microphones](https://dl.acm.org/doi/abs/10.1145/3560821), _IEEE Transactions on Dependable and Secure Computing_, Accepted for publication.
 
-**<font color="#dd0000">[TOSN]</font>** **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, [Towards Reliable Driver Drowsiness Detection Leveraging Wearables](https://dl.acm.org/doi/abs/10.1145/3560821), _ACM Transactions on Sensor Networks_, Accepted for publication, [<ins>PDF</ins>](../files/FDWatch.pdf)
 
-**<font color="#dd0000">[TMC]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Yu Wang, [Tongue-Jaw Movement Recognition Through Acoustic Sensing on Smartphones](https://ieeexplore.ieee.org/abstract/document/9953323), _IEEE Transactions on Mobile Computing_, Accepted for publication, [<ins>PDF</ins>](../files/CanalScanTMC-Final.pdf)
+**<font color="#dd0000">[TMC]</font>** Xiaochen Liu, Fan Li, **Yetong Cao**, Yu Wang, [BrailleReader: Braille Character Recognition Using Wearable Motion Sensor](https://dl.acm.org/doi/abs/10.1145/3560821), _IEEE Transactions on Mobile Computing_, Accepted for publication.
 
-**<font color="#dd0000">[TMC]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Song Yang, Yu Wang, [Leveraging Wearables for Assisting the Elderly With Dementia in Handwashing](https://ieeexplore.ieee.org/abstract/document/9839489), _IEEE Transactions on Mobile Computing_, Accepted for publication, [<ins>PDF</ins>](../files/TMC-AWash-Final.pdf)
+**<font color="#dd0000">[TMC]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Shengchun Zhai, Song Yang, Yu Wang, [Live Speech Recognition via Earphone Motion Sensors](https://dl.acm.org/doi/abs/10.1145/3560821), _IEEE Transactions on Mobile Computing_, 22(6), 7284-7300, 2024. 
+
+**<font color="#dd0000">[TMC]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Yu Wang, [Tongue-Jaw Movement Recognition Through Acoustic Sensing on Smartphones](https://ieeexplore.ieee.org/abstract/document/9953323), _IEEE Transactions on Mobile Computing_, 23(1), 879-894, 2024. [<ins>PDF</ins>](../files/CanalScanTMC-Final.pdf)
+
+**<font color="#dd0000">[TOSN]</font>** **Yetong Cao**, Fan Li, Xiaochen Liu, Song Yang, Yu Wang, [Towards Reliable Driver Drowsiness Detection Leveraging Wearables](https://dl.acm.org/doi/abs/10.1145/3560821), _ACM Transactions on Sensor Networks_, 19(2), 1-23, 2023. [<ins>PDF</ins>](../files/FDWatch.pdf)
+
+**<font color="#dd0000">[TMC]</font>** **Yetong Cao**, Fan Li, Huijie Chen, Xiaochen Liu, Song Yang, Yu Wang, [Leveraging Wearables for Assisting the Elderly With Dementia in Handwashing](https://ieeexplore.ieee.org/abstract/document/9839489), _IEEE Transactions on Mobile Computing_, 22(11), 6554-6570, 2023. [<ins>PDF</ins>](../files/TMC-AWash-Final.pdf)
 
 **<font color="#dd0000">[TMC]</font>** **Yetong Cao**, Fan Li, Qian Zhang, Song Yang, Yu Wang, [Towards Nonintrusive and Secure Mobile Two-Factor Authentication on Wearables](https://ieeexplore.ieee.org/abstract/document/9645232), _IEEE Transactions on Mobile Computing_, 22(5), 3046-3061, 2023. [<ins>PDF</ins>](../files/PPGPass-TMC-final.pdf)
 
