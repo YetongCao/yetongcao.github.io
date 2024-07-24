@@ -19,9 +19,9 @@ She is primarily devoted to integrating artificial intelligence with signal proc
 
 News
 ======
-**[19/7]** our paper "Enabling Passive User Authentication via Heart Sounds on In-Ear Microphones" accepted at **<font color="#dd00dd">TDSC</font>**.
+**[19/7]** our paper "Enabling Passive User Authentication via Heart Sounds on In-Ear Microphones" accepted at **<font color="#dd0000">TDSC</font>**.
 
-**[20/3]** our paper "BrailleReader: Braille Character Recognition Using Wearable Motion Sensor" accepted at **<font color="#dd00dd">TMC</font>**.
+**[20/3]** our paper "BrailleReader: Braille Character Recognition Using Wearable Motion Sensor" accepted at **<font color="#dd0000">TMC</font>**.
 
 **[18/1]** Yetong Cao has been honored with the <ins>Doctoral Dissertation Incentive Program\ 博士学位论文激励计划 by the China Institute of Communications</ins>.(https://www.china-cic.cn/Detail/24/5290/5290)
 
