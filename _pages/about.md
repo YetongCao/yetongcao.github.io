@@ -18,7 +18,7 @@ She is primarily devoted to integrating artificial intelligence with signal proc
 
 **I am looking for highly motivated PhD, Master, and undergraduate students with strong background in CS, EE and Math.**
 
-**Please see [<ins>招生说明</ins>](https://yetongcao.github.io/files/PPGSpotter.pdf) for more details.**
+**Please see [<ins>招生说明</ins>] for more details.**
 
 News
 ======
