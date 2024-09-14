@@ -18,7 +18,7 @@ She is primarily devoted to integrating artificial intelligence with signal proc
 
 Hiring
 ======
-**I am looking for highly motivated PhD, Master, and undergraduate students with strong background in CS, EE and Math.**
+I am looking for highly motivated PhD, Master, and undergraduate students with strong background in CS, EE and Math.
 
 现面向广大学子招收：2025级博士研究生1名（申请考核或直博），硕士研究生2名，以及若干名本科生。欢迎对科研充满热情，拥有扎实编程功底、出色英文写作能力和优秀数学素养的同学加入我们的学术大家庭！我承诺为每位有志于从事高水平科研工作的学生量身定制科研计划。对于科研表现优异的学子，还将提供多种形式的国内/海外学术交流访问和升学机会。
 
