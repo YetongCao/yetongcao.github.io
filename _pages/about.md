@@ -16,7 +16,9 @@ Research Interests
 Her research interests include **Smart Sensing**, **Mobile Computing**, **Mobile Health**, and **Security & Privacy**. 
 She is primarily devoted to integrating artificial intelligence with signal processing techniques to create innovative applications. Her work places a significant emphasis on system implementation and validation in real-world scenarios, with a focus on ensuring user-friendliness and practicality.
 
-**<font color="#0000FF">I am looking for highly motivated PhD, Master, and undergraduate students with strong background in CS, EE and Math. Please see 招生说明[<ins>PDF</ins>](https://yetongcao.github.io/files/PPGSpotter.pdf) for more details.**
+**<font color="#0000FF">I am looking for highly motivated PhD, Master, and undergraduate students with strong background in CS, EE and Math.**
+
+**Please see [<ins>招生说明</ins>](https://yetongcao.github.io/files/PPGSpotter.pdf) for more details.**
 
 News
 ======
