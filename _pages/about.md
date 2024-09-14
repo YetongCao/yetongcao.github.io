@@ -9,13 +9,14 @@ redirect_from:
 ---
 Bio
 ======
-Yetong Cao is currently a research fellow at the College of Computing and Data Science, Nanyang Technological University. She received her Ph.D. degree from the School of Computer Science at Beijing Institute of Technology in 2023, advised by [Prof. Fan Li](https://cs.bit.edu.cn/szdw/jsml/js/lf/index.htm "FanLi"). She received her B.E. degree from Shandong University in 2017. Previously, she has visited the Computer Networks and Communication Lab (CNCL) at Nanyang Technological University under the supervision of [Prof. Jun Luo](https://personal.ntu.edu.sg/junluo/ "JunLuo"). 
+Yetong Cao is a tenure-track professor in the School of Computer Science and Technology at Shandong University. She earned her Ph.D. in Computer Science from Beijing Institute of Technology in 2023, advised by [Prof. Fan Li], and her B.E. from Shandong University in 2017. She also worked as a visiting student and postdoctoral research fellow at the College of Computing and Data Science at Nanyang Technological University from 2021 to 2024, advised by [Prof. Jun Luo](https://personal.ntu.edu.sg/junluo/ "JunLuo"). Her current research interests include mobile computing and ubiquitous computing.
 
 Research Interests
 ======
 Her research interests include **Smart Sensing**, **Mobile Computing**, **Mobile Health**, and **Security & Privacy**. 
 She is primarily devoted to integrating artificial intelligence with signal processing techniques to create innovative applications. Her work places a significant emphasis on system implementation and validation in real-world scenarios, with a focus on ensuring user-friendliness and practicality.
 
+**<font color="#0000FF">I am looking for highly motivated PhD, Master, and undergraduate students with strong background in CS, EE and Math. Please see 招生说明[<ins>PDF</ins>](https://yetongcao.github.io/files/PPGSpotter.pdf) for more details.**
 
 News
 ======
