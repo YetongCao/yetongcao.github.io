@@ -26,21 +26,23 @@ I am looking for highly motivated PhD, Master, and undergraduate students with s
 
 News
 ======
-**[19/7]** our paper "Enabling Passive User Authentication via Heart Sounds on In-Ear Microphones" accepted at **<font color="#dd0000">TDSC</font>**.
+**[18/1]** Yetong Cao has been honored with the <ins>ACM SIGMOBILE China Excellent Doctoral Dissertation Award/优秀博士论文奖</ins>.
 
-**[20/3]** our paper "BrailleReader: Braille Character Recognition Using Wearable Motion Sensor" accepted at **<font color="#dd0000">TMC</font>**.
+**[19/7]** our paper "Enabling Passive User Authentication via Heart Sounds on In-Ear Microphones" has been accepted at **<font color="#dd0000">TDSC</font>**.
+
+**[20/3]** our paper "BrailleReader: Braille Character Recognition Using Wearable Motion Sensor" has been accepted at **<font color="#dd0000">TMC</font>**.
 
 **[18/1]** Yetong Cao has been honored with the <ins>Doctoral Dissertation Incentive Program\ 博士学位论文激励计划 by the China Institute of Communications</ins>.(https://www.china-cic.cn/Detail/24/5290/5290)
 
-**[1/12]** our paper "hBP-Fi: Contactless Blood Pressure Monitoring via Deep-Analyzed Hemodynamics" accepted at **<font color="#dd00dd">INFOCOM'24</font>**.
+**[1/12]** our paper "hBP-Fi: Contactless Blood Pressure Monitoring via Deep-Analyzed Hemodynamics" has been accepted at **<font color="#dd00dd">INFOCOM'24</font>**.
 
 
-**[1/12]** our paper "PPGSpotter: Personalized Free Weight Training Monitoring Using Wearable PPG Sensor" accepted at **<font color="#dd00dd">INFOCOM'24</font>**.
+**[1/12]** our paper "PPGSpotter: Personalized Free Weight Training Monitoring Using Wearable PPG Sensor" has been accepted at **<font color="#dd00dd">INFOCOM'24</font>**.
 
 
-**[23/11]** our paper "Live Speech Recognition via Earphone Motion Sensors" accepted at **<font color="#dd0000">TMC</font>**.
+**[23/11]** our paper "Live Speech Recognition via Earphone Motion Sensors" has been accepted at **<font color="#dd0000">TMC</font>**.
 
-**[23/05]** our paper "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platfor" accepted at **<font color="#dd00dd">ACM IMWUT/Ubicomp</font>**.
+**[23/05]** our paper "EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platfor" has been accepted at **<font color="#dd00dd">ACM IMWUT/Ubicomp</font>**.
 
 
 
