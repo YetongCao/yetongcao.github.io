@@ -9,7 +9,7 @@ redirect_from:
 ---
 Bio
 ======
-Yetong Cao is a tenure-track professor in the School of Computer Science and Technology at Shandong University. She earned her Ph.D. in Computer Science from Beijing Institute of Technology in 2023, advised by [Prof. Fan Li](https://cs.bit.edu.cn/szdw/jsml/js/lf/index.htm), and her B.E. from Shandong University in 2017. She also worked as a visiting student and postdoctoral research fellow at the College of Computing and Data Science at Nanyang Technological University from 2021 to 2024, advised by [Prof. Jun Luo](https://personal.ntu.edu.sg/junluo/ "JunLuo"). 
+Yetong Cao is a tenure-track professor in the School of Computer Science and Technology at Shandong University. She earned her Ph.D. in Computer Science from Beijing Institute of Technology in 2023, advised by [Prof. Fan Li](https://fli-bit.github.io/), and her B.E. from Shandong University in 2017. She also worked as a visiting student and postdoctoral research fellow at the College of Computing and Data Science at Nanyang Technological University from 2021 to 2024, advised by [Prof. Jun Luo](https://personal.ntu.edu.sg/junluo/ "JunLuo"). 
 
 Research Interests
 ======
